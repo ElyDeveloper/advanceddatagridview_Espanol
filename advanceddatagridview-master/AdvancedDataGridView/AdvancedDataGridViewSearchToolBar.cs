@@ -64,14 +64,14 @@ namespace Zuby.ADGV
         /// </summary>
         public static Dictionary<string, string> Translations = new Dictionary<string, string>()
         {
-            { TranslationKey.ADGVSTBLabelSearch.ToString(), "Search:" },
-            { TranslationKey.ADGVSTBButtonFromBegin.ToString(), "From Begin" },
-            { TranslationKey.ADGVSTBButtonCaseSensitiveToolTip.ToString(), "Case Sensitivity" },
-            { TranslationKey.ADGVSTBButtonSearchToolTip.ToString(), "Find Next" },
-            { TranslationKey.ADGVSTBButtonCloseToolTip.ToString(), "Hide" },
-            { TranslationKey.ADGVSTBButtonWholeWordToolTip.ToString(), "Search only Whole Word" },
-            { TranslationKey.ADGVSTBComboBoxColumnsAll.ToString(), "(All Columns)" },
-            { TranslationKey.ADGVSTBTextBoxSearchToolTip.ToString(), "Value for Search" }
+            { TranslationKey.ADGVSTBLabelSearch.ToString(), "Buscar:" },
+            { TranslationKey.ADGVSTBButtonFromBegin.ToString(), "Desde Inicio" },
+            { TranslationKey.ADGVSTBButtonCaseSensitiveToolTip.ToString(), "Sensibilidad de mayúsculas y minúsculas" },
+            { TranslationKey.ADGVSTBButtonSearchToolTip.ToString(), "Buscar siguiente" },
+            { TranslationKey.ADGVSTBButtonCloseToolTip.ToString(), "Ocultar" },
+            { TranslationKey.ADGVSTBButtonWholeWordToolTip.ToString(), "Buscar solo palabra completa" },
+            { TranslationKey.ADGVSTBComboBoxColumnsAll.ToString(), "(Todas las columnas)" },
+            { TranslationKey.ADGVSTBTextBoxSearchToolTip.ToString(), "Valor para la búsqueda" }
         };
 
         /// <summary>
